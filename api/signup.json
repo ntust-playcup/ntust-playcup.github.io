@@ -1,0 +1,31 @@
+{
+    "timeline": "2021.03.05 (五) 上午 09:00 開放「1 校內 + 1 校內」球員報名。\n2021.03.16 (二) 上午 09:00 開放「1 校內 + 1 校外」球員報名。\n2021.03.26 (五) 晚上 21:00 全面截止報名。",
+    "status": "報名截止",
+    "___comment_of_status": "尚未開放 / 立即報名 / 報名截止",
+    "groups": [
+        {
+            "name": "女子組",
+            "id": "woman",
+            "signup_url": "https://docs.google.com/forms/d/1kduyCqdsu_iDiWecsuPvVVNK2Xxb9KLxaysQQE3VyqQ",
+            "check_url": "https://docs.google.com/spreadsheets/d/1oVgY99NoCeq7x9JbBLQAaOvlnraUKV7q4FMJD0kpjp8"
+        },
+        {
+            "name": "男子組",
+            "id": "man",
+            "signup_url": "https://docs.google.com/forms/d/1KFT2Aayvq0PqolbFm4dOTgXRjsM5L0o_UjKf7cbtahQ",
+            "check_url": "https://docs.google.com/spreadsheets/d/1ferak9zqSCipb5yOmghgLfFScCaiaNp8McBliv6AAxQ"
+        },
+        {
+            "name": "混合組",
+            "id": "mix",
+            "signup_url": "https://docs.google.com/forms/d/1WO61EhVOIH1ivgAAj08jWME5YdavZCKMPvIj-UY-eB8",
+            "check_url": "https://docs.google.com/spreadsheets/d/1Q0-PiXzB85N5mE6wQ5mvfSGL8TCNdk3u0h-oIG-E524"
+        },
+        {
+            "name": "照片上傳",
+            "id": "upload",
+            "signup_url": "https://docs.google.com/forms/d/10sUBgHKefPjugMPfw7TcRN02OqnWqJndCWdnQ_rxvHo",
+            "check_url": "https://docs.google.com/spreadsheets/d/1HRs9iNM1a6rM1ea264D23XyDy5yH4UqGK1oLO5uSjxM"
+        }
+    ]
+}
