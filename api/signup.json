@@ -1,25 +1,25 @@
 {
     "timeline": "2022.04.16 (六) 上午 09:00 開放「1 校內 + 1 校內」球員報名。\n2022.04.27 (三) 上午 09:00 開放「1 校內 + 1 校外」球員報名。\n2022.05.07 (六) 晚上 21:00 全面截止報名。",
-    "status": "尚未開放",
+    "status": "立即報名",
     "___comment_of_status": "尚未開放 / 立即報名 / 報名截止",
     "groups": [
         {
             "name": "女子組",
             "id": "woman",
             "signup_url": "https://docs.google.com/forms/d/e/1FAIpQLSeUCHM8ro7g4M-EOoC96tLUUM4ZY1RZmtfIF53p7zP8DWj2eg/viewform?usp=sf_link",
-            "check_url": "https://docs.google.com/spreadsheets/d/1oVgY99NoCeq7x9JbBLQAaOvlnraUKV7q4FMJD0kpjp8"
+            "check_url": "https://docs.google.com/spreadsheets/d/1zybvVz3T8Ltla-qPlTLr7507PAlI0wMZ2iDGGgwptzA/edit?usp=sharing"
         },
         {
             "name": "男子組",
             "id": "man",
             "signup_url": "https://docs.google.com/forms/d/e/1FAIpQLSdQxXuSHZEXfnHwH6J-oLgNknTN8ctHUbpUycARwWoIeLGj0A/viewform?usp=sf_link",
-            "check_url": "https://docs.google.com/spreadsheets/d/1ferak9zqSCipb5yOmghgLfFScCaiaNp8McBliv6AAxQ"
+            "check_url": "https://docs.google.com/spreadsheets/d/1U1tXSXIwLS5es_5ewGXeLxSyAra8wkzaez4JE9BgElY/edit?resourcekey#gid=513168835"
         },
         {
             "name": "混合組",
             "id": "mix",
             "signup_url": "https://docs.google.com/forms/d/e/1FAIpQLSeSD4dWHZy1ttTdkt0wYqwEKCbehPxyPj0pFVGW18gzuwx6Pw/viewform?usp=sf_link",
-            "check_url": "https://docs.google.com/spreadsheets/d/1Q0-PiXzB85N5mE6wQ5mvfSGL8TCNdk3u0h-oIG-E524"
+            "check_url": "https://docs.google.com/spreadsheets/d/1q3aPzeFDlfc7pjLvZEgjEfWO0EAt2rNeEuKdaok_YzA/edit?usp=sharing"
         },
         {
             "name": "照片上傳",
