@@ -6,19 +6,19 @@
         {
             "name": "女子組",
             "id": "woman",
-            "signup_url": "https://docs.google.com/forms/d/1kduyCqdsu_iDiWecsuPvVVNK2Xxb9KLxaysQQE3VyqQ",
+            "signup_url": "https://docs.google.com/forms/d/e/1FAIpQLSeUCHM8ro7g4M-EOoC96tLUUM4ZY1RZmtfIF53p7zP8DWj2eg/viewform?usp=sf_link",
             "check_url": "https://docs.google.com/spreadsheets/d/1oVgY99NoCeq7x9JbBLQAaOvlnraUKV7q4FMJD0kpjp8"
         },
         {
             "name": "男子組",
             "id": "man",
-            "signup_url": "https://docs.google.com/forms/d/1KFT2Aayvq0PqolbFm4dOTgXRjsM5L0o_UjKf7cbtahQ",
+            "signup_url": "https://docs.google.com/forms/d/e/1FAIpQLSdQxXuSHZEXfnHwH6J-oLgNknTN8ctHUbpUycARwWoIeLGj0A/viewform?usp=sf_link",
             "check_url": "https://docs.google.com/spreadsheets/d/1ferak9zqSCipb5yOmghgLfFScCaiaNp8McBliv6AAxQ"
         },
         {
             "name": "混合組",
             "id": "mix",
-            "signup_url": "https://docs.google.com/forms/d/1WO61EhVOIH1ivgAAj08jWME5YdavZCKMPvIj-UY-eB8",
+            "signup_url": "https://docs.google.com/forms/d/e/1FAIpQLSeSD4dWHZy1ttTdkt0wYqwEKCbehPxyPj0pFVGW18gzuwx6Pw/viewform?usp=sf_link",
             "check_url": "https://docs.google.com/spreadsheets/d/1Q0-PiXzB85N5mE6wQ5mvfSGL8TCNdk3u0h-oIG-E524"
         },
         {
