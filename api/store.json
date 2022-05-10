@@ -1,24 +1,24 @@
 {
     "timeline": "2022.05.07 (六) 中午 12:00 開放商品購買。\n2022.05.17 (二) 晚上 21:00 商品購買截止。",
-    "status": "購買截止",
+    "status": "立即購買",
     "___comment_of_status": "尚未開放 / 立即購買 / 購買截止",
     "groups": [
         {
             "name": "球衣",
             "id": "shirts",
-            "buy_url": "https://docs.google.com/forms/d/1pDw0LGEf1xTnXK-dgQ8VUSCwuXpwX-Hoknp74_tJl-0",
-            "check_url": "https://docs.google.com/spreadsheets/d/1H57n20bkZ21WreblpRoygoH9qII7hQGFMCmLitCXudw/edit#gid=602583068"
+            "buy_url": "https://forms.gle/BgcYdbgRX3EUFXW7A",
+            "check_url": "https://docs.google.com/spreadsheets/d/1WomwOjmMvYBQnrmn6tIlI6ZqosDPRd-aCRB1wpl-Pfo/edit?usp=sharing"
         },
         {
             "name": "球襪",
             "id": "socks",
-            "buy_url": "https://docs.google.com/forms/d/1OnntfveXKw5UbloDGg0U_PZ-v8-Lj86GZU9zIi0nzVs",
-            "check_url": "https://docs.google.com/spreadsheets/d/14PnDciCXkYQ4KCnLPXBrCyxWDMiZuaZiUC0sixzg664/edit#gid=257618301"
+            "buy_url": "https://forms.gle/5d2PYhKr2YDPQMY86",
+            "check_url": "https://docs.google.com/spreadsheets/d/1DfWBrKSl0IuzPv7hUgjy-N7-G5yhovBtRccOAh_nlOM/edit?usp=sharing"
         },
         {
             "name": "匯款資訊上傳",
             "id": "upload",
-            "buy_url": "https://docs.google.com/forms/d/1IswYYSCnNLKqXLYdjqtDgkrymJndvumqA0r-uzo0os8",
+            "buy_url": "https://forms.gle/VEiNJYZeAxoCXjpb9",
             "check_url": ""
         }
     ]
