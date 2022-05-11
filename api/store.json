@@ -1,5 +1,5 @@
 {
-    "timeline": "2022.05.07 (六) 中午 12:00 開放商品購買。\n2022.05.17 (二) 晚上 21:00 商品購買截止。",
+    "timeline": "2022.05.11 (六) 中午 12:00 開放商品購買。\n2022.05.21 (二) 晚上 23:00 商品購買截止。",
     "status": "立即購買",
     "___comment_of_status": "尚未開放 / 立即購買 / 購買截止",
     "groups": [
@@ -12,8 +12,8 @@
         {
             "name": "球襪",
             "id": "socks",
-            "buy_url": "https://forms.gle/5d2PYhKr2YDPQMY86",
-            "check_url": "https://docs.google.com/spreadsheets/d/1DfWBrKSl0IuzPv7hUgjy-N7-G5yhovBtRccOAh_nlOM/edit?usp=sharing"
+            "buy_url": "https://forms.gle/v1niaUcBrJc71gFM6",
+            "check_url": "https://docs.google.com/spreadsheets/d/1UhHNBveY49FwbrroKHPtNKezG8WUutAQvbbq6AHl4Tw/edit?usp=sharing"
         },
         {
             "name": "匯款資訊上傳",
