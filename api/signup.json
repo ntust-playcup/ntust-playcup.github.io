@@ -1,31 +1,31 @@
 {
-    "timeline": "2022.04.16 (六) 上午 09:00 開放「1 校內 + 1 校內」球員報名。\n2022.04.27 (三) 上午 09:00 開放「1 校內 + 1 校外」球員報名。\n2022.05.07 (六) 晚上 21:00 全面截止報名。",
-    "status": "報名截止",
+    "timeline": "2023.04.16 (六) 上午 09:00 開放「1 校內 + 1 校內」球員報名。\n2023.04.27 (三) 上午 09:00 開放「1 校內 + 1 校外」球員報名。\n2023.05.07 (六) 晚上 21:00 全面截止報名。",
+    "status": "尚未開放",
     "___comment_of_status": "尚未開放 / 立即報名 / 報名截止",
     "groups": [
         {
             "name": "女子組",
             "id": "woman",
-            "signup_url": "https://docs.google.com/forms/d/e/1FAIpQLSeUCHM8ro7g4M-EOoC96tLUUM4ZY1RZmtfIF53p7zP8DWj2eg/viewform?usp=sf_link",
-            "check_url": "https://docs.google.com/spreadsheets/d/1zybvVz3T8Ltla-qPlTLr7507PAlI0wMZ2iDGGgwptzA/edit?usp=sharing"
+            "signup_url": "https://forms.gle/xZCCUr8uqEKq2BBMA",
+            "check_url": "https://docs.google.com/spreadsheets/d/1IdVRDaItPXrYIk86GeXURh3TaX7tERENqywHxurCWi8/edit?usp=sharing"
         },
         {
             "name": "男子組",
             "id": "man",
-            "signup_url": "https://docs.google.com/forms/d/e/1FAIpQLSdQxXuSHZEXfnHwH6J-oLgNknTN8ctHUbpUycARwWoIeLGj0A/viewform?usp=sf_link",
-            "check_url": "https://docs.google.com/spreadsheets/d/1U1tXSXIwLS5es_5ewGXeLxSyAra8wkzaez4JE9BgElY/edit?resourcekey#gid=513168835"
+            "signup_url": "https://forms.gle/wQSffhThRDNPedDD9",
+            "check_url": "https://docs.google.com/spreadsheets/d/1kfy5N4DoX5iP8aR-EKxu_zn4OGND9E15HfCU1R6u6Gk/edit?usp=sharing"
         },
         {
             "name": "混合組",
             "id": "mix",
-            "signup_url": "https://docs.google.com/forms/d/e/1FAIpQLSeSD4dWHZy1ttTdkt0wYqwEKCbehPxyPj0pFVGW18gzuwx6Pw/viewform?usp=sf_link",
-            "check_url": "https://docs.google.com/spreadsheets/d/1q3aPzeFDlfc7pjLvZEgjEfWO0EAt2rNeEuKdaok_YzA/edit?usp=sharing"
+            "signup_url": "https://forms.gle/U7NpDsvqySMhZV8Y8",
+            "check_url": "https://docs.google.com/spreadsheets/d/13UoUzxGZk8PZ91wKNTSy85lsCvsa7HBYgbUR5sit3e0/edit?usp=sharing"
         },
         {
             "name": "照片上傳",
             "id": "upload",
-            "signup_url": "https://docs.google.com/forms/d/e/1FAIpQLSdv7S3SayOClq_YrRR05rw_KlPsaWbtUM-RKD5IA3FBW5-FfQ/viewform?usp=sf_link",
-            "check_url": "https://docs.google.com/spreadsheets/d/18381pj2c_FAI1QsYuJlmi8eCvac5DK-ouKy3N4ulwl4/edit?usp=sharing"
+            "signup_url": "https://forms.gle/Kokq7iNUy1PVVCyQ8",
+            "check_url": "https://docs.google.com/spreadsheets/d/1cUrhO1s0qs_9_kirFX4-tcYRl8ZAq9JcMJkcH4_Q220/edit?usp=sharing"
         }
     ]
 }
