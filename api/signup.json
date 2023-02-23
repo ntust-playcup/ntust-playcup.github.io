@@ -5,25 +5,25 @@
     "groups": [
         {
             "name": "女子組",
-            "id": "woman",
+            "image": "https://i.imgur.com/K54Fg26.png",
             "signup_url": "https://forms.gle/xZCCUr8uqEKq2BBMA",
             "check_url": "https://docs.google.com/spreadsheets/d/1IdVRDaItPXrYIk86GeXURh3TaX7tERENqywHxurCWi8/edit?usp=sharing"
         },
         {
             "name": "男子組",
-            "id": "man",
+            "image": "https://i.imgur.com/9fPiVqD.png",
             "signup_url": "https://forms.gle/wQSffhThRDNPedDD9",
             "check_url": "https://docs.google.com/spreadsheets/d/1kfy5N4DoX5iP8aR-EKxu_zn4OGND9E15HfCU1R6u6Gk/edit?usp=sharing"
         },
         {
             "name": "混合組",
-            "id": "mix",
+            "image": "https://i.imgur.com/YiyXdXX.png",
             "signup_url": "https://forms.gle/U7NpDsvqySMhZV8Y8",
             "check_url": "https://docs.google.com/spreadsheets/d/13UoUzxGZk8PZ91wKNTSy85lsCvsa7HBYgbUR5sit3e0/edit?usp=sharing"
         },
         {
             "name": "照片上傳",
-            "id": "upload",
+            "image": "https://i.imgur.com/M8TqkZM.png",
             "signup_url": "https://forms.gle/Kokq7iNUy1PVVCyQ8",
             "check_url": "https://docs.google.com/spreadsheets/d/1cUrhO1s0qs_9_kirFX4-tcYRl8ZAq9JcMJkcH4_Q220/edit?usp=sharing"
         }
