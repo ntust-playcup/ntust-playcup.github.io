@@ -2,41 +2,49 @@
     {
         "group": "總召",
         "name": "陳柏旭",
-        "responsibility": "負責召集臺科普類盃各項作業者。\n賽期前中後各段流程監督、進度、驗收。"
+        "responsibility": "負責召集臺科普類盃各項作業者。\n賽期前中後各段流程監督、進度、驗收。",
+        "image": ""
     },
     {
         "group": "資訊",
         "name": "葉庭維",
-        "responsibility": "維護臺科普類盃。\n設計官方網站整體流程。"
+        "responsibility": "維護臺科普類盃。\n設計官方網站整體流程。",
+        "image": ""
     },
     {
         "group": "賽務",
         "name": "王秉軒",
-        "responsibility": "選手名單管理，規劃賽程時間，管理參賽名單，制定種子名單規則。"
+        "responsibility": "選手名單管理，規劃賽程時間，管理參賽名單，制定種子名單規則。",
+        "image": ""
     },
     {
         "group": "商品",
         "name": "陳柏旭",
-        "responsibility": "規劃臺科普類盃商品，協調製作廠商並下單。"
+        "responsibility": "規劃臺科普類盃商品，協調製作廠商並下單。",
+        "image": ""
     },
     {
         "group": "文案",
         "name": "劉誌軒",
-        "responsibility": "設計各項表單、官方網站、粉絲專頁等各項文案。"
+        "responsibility": "設計各項表單、官方網站、粉絲專頁等各項文案。",
+        "image": ""
     },
     {
         "group": "攝影",
         "name": "葉庭維",
-        "responsibility": "賽事期間的攝影，賽後照片編輯及編輯等。"
+        "responsibility": "賽事期間的攝影，賽後照片編輯及編輯等。",
+        "image": ""
     },
     {
         "group": "財務",
         "name": "劉誌軒",
-        "responsibility": "賽事期間所有的費用規劃。"
+        "responsibility": "賽事期間所有的費用規劃。",
+        "image": ""
     },
     {
         "group": "設計",
         "name": "陳柏旭",
-        "responsibility": "Logo、球衣及球襪圖檔設計。"
+        "responsibility": "Logo、球衣及球襪圖檔設計。",
+        "image": ""
     }
 ]
