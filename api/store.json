@@ -6,20 +6,19 @@
         {
             "name": "球衣",
             "image": "https://i.imgur.com/pR0fjcS.jpeg",
-            "buy_url": "https://docs.google.com/forms/d/1GSVO5La2sMcRR2EyEejNjjrNP9nfSBtJZ6NF78NuPjY/viewform?edit_requested=true",
-            "check_url": "https://docs.google.com/spreadsheets/d/1YYEMFwP1NOOq_ZpUeaqvJtcjR6wNC-K2ZBdPjS8ux6o/edit?usp=sharing"
+            "buy_url": "https://forms.gle/7W9jNhgDMZoxuwZb8",
+            "check_url": "https://docs.google.com/spreadsheets/d/1hh6yQjqe_RuhDcjLq2hAKUWgdcQ_YdwObAzjvYwqJsY/edit?usp=sharing"
         },
         {
             "name": "球襪",
             "image": "https://i.imgur.com/H9O0wca.jpeg",
-            "buy_url": "https://docs.google.com/forms/d/1GSVO5La2sMcRR2EyEejNjjrNP9nfSBtJZ6NF78NuPjY/viewform?edit_requested=true",
-            "check_url": "https://docs.google.com/spreadsheets/d/1GSEV8SeYP84SWTulUGUy123w8YLtzQjB5TxDBuHfBSs/edit?usp=sharing"
+            "buy_url": "https://docs.google.com/spreadsheets/d/1RhgZwt4qnZ3JPn07C2lw3Vrf-w6FNCZ6P-UyOkL5srQ/edit?usp=sharing"
         },
         {
             "name": "匯款資訊上傳",
             "image": "https://i.imgur.com/M8TqkZM.png",
-            "buy_url": "https://docs.google.com/forms/d/1GSVO5La2sMcRR2EyEejNjjrNP9nfSBtJZ6NF78NuPjY/viewform?edit_requested=true",
-            "check_url": "https://docs.google.com/spreadsheets/d/1D58NMqYtTjiRAxsm6z4W2QdIe5rMeHTAT-ryQabgj24/edit?usp=sharing"
+            "buy_url": "https://forms.gle/DEj5fFyzeDprE2MR8",
+            "check_url": "https://docs.google.com/spreadsheets/d/12ZsYgQWz3RIP8XNZUIZAhDNSuLLVL1jkLLDUsQZHGeE/edit?usp=sharing"
         }
     ]
 }
