@@ -1,24 +1,24 @@
 {
-    "timeline": "2023.02.27 (一) 上午 09:00 開放「1 校內 + 1 校內」球員報名。\n2023.03.09 (四) 上午 09:00 開放「1 校內 + 1 校外」球員報名。\n2023.03.19 (六) 晚上 21:00 全面截止報名。",
-    "status": "報名截止",
+    "timeline": "2024.02.25 (日) 上午 09:00 開放「1 校內 + 1 校內」球員報名。\n2024.03.17 (日) 上午 09:00 開放「1 校內 + 1 校外」球員報名。\n2024.03.17 (日) 晚上 21:00 全面截止報名。",
+    "status": "立即報名",
     "___comment_of_status": "尚未開放 / 立即報名 / 報名截止",
     "groups": [
         {
             "name": "女子組",
             "image": "https://i.imgur.com/K54Fg26.png",
-            "signup_url": "https://forms.gle/xZCCUr8uqEKq2BBMA",
+            "signup_url": "https://docs.google.com/forms/d/e/1FAIpQLScRfmk7TpcTPNdUP2OX82uBhd97UTmGL94HgQVS-cfVGs2OBA/viewform",
             "check_url": "https://docs.google.com/spreadsheets/d/1IdVRDaItPXrYIk86GeXURh3TaX7tERENqywHxurCWi8/edit?usp=sharing"
         },
         {
             "name": "男子組",
             "image": "https://i.imgur.com/9fPiVqD.png",
-            "signup_url": "https://forms.gle/wQSffhThRDNPedDD9",
+            "signup_url": "https://docs.google.com/forms/d/e/1FAIpQLSfupBVPnxwq6XSeLwz5n47l92kxffKodHYBmloPsZkWjPqv4g/viewform",
             "check_url": "https://docs.google.com/spreadsheets/d/1kfy5N4DoX5iP8aR-EKxu_zn4OGND9E15HfCU1R6u6Gk/edit?usp=sharing"
         },
         {
             "name": "混合組",
             "image": "https://i.imgur.com/YiyXdXX.png",
-            "signup_url": "https://forms.gle/U7NpDsvqySMhZV8Y8",
+            "signup_url": "https://docs.google.com/forms/d/e/1FAIpQLScG-9oRnC1kW29yEfMr8i4PnGROP2EOx-u8g8E_EWMCEQD6Jg/viewform",
             "check_url": "https://docs.google.com/spreadsheets/d/13UoUzxGZk8PZ91wKNTSy85lsCvsa7HBYgbUR5sit3e0/edit?usp=sharing"
         },
         {
