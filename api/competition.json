@@ -1,18 +1,30 @@
 [
     {
-        "title": "混合組 預賽 賽制圖",
-        "image_url": "https://i.imgur.com/4oAFPBv.jpg"
+        "title": "男子組 預賽 賽制圖",
+        "image_url": "https://i.imgur.com/c3vMYCy.png"
     },
     {
-        "title": "混合組 預賽 賽程表",
-        "image_url": "https://i.imgur.com/pnxeqYD.jpeg"
+        "title": "男子組 預賽 賽程表",
+        "image_url": "https://i.imgur.com/taCNhiN.png"
     },
     {
-        "title": "混合組 複賽 賽制圖",
-        "image_url": "https://i.imgur.com/2vmR9GW.jpg"
+        "title": "男子組 複賽 賽制圖",
+        "image_url": "https://i.imgur.com/zSkhpjM.png"
     },
     {
-        "title": "混合組 複賽 賽程表",
-        "image_url": "https://i.imgur.com/ktPrbat.jpg"
+        "title": "男子組 複賽 賽程表",
+        "image_url": "https://i.imgur.com/mjpLw7o.png"
+    },
+    {
+        "title": "女子組 賽制圖",
+        "image_url": "https://i.imgur.com/IYUGqkn.png"
+    },
+    {
+        "title": "女子組 賽程表 Day1",
+        "image_url": "https://i.imgur.com/zLABFox.png"
+    },
+    {
+        "title": "女子組 賽程表 Day2",
+        "image_url": "https://i.imgur.com/LYxNBgF.png"
     }
 ]
