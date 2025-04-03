@@ -1,5 +1,5 @@
 {
-    "timeline": "2025.04.05 (六) 上午 09:00 開放商品購買。\n2025.04.26 (六) 晚上 21:00 商品購買截止。",
+    "timeline": "2025.04.05 (六) 上午 09:00 開放商品購買。\n2025.04.20 (日) 晚上 21:00 商品購買截止。",
     "status": "尚未開放",
     "___comment_of_status": "尚未開放 / 立即購買 / 購買截止",
     "groups": [
@@ -11,7 +11,7 @@
         },
         {
             "name": "球襪($100)",
-            "image": "https://i.imgur.com/H9O0wca.jpeg",
+            "image": "https://i.imgur.com/O2Cbv2B.jpeg",
             "buy_url": "https://forms.gle/bWnd3Qjt1izXiQ6N9",
             "check_url": "https://docs.google.com/spreadsheets/d/1RhgZwt4qnZ3JPn07C2lw3Vrf-w6FNCZ6P-UyOkL5srQ/edit?usp=sharing"
         },
