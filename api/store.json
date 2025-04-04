@@ -1,25 +1,25 @@
 {
     "timeline": "2025.04.05 (六) 上午 09:00 開放商品購買。\n2025.04.20 (日) 晚上 21:00 商品購買截止。",
-    "status": "尚未開放",
+    "status": "立即購買",
     "___comment_of_status": "尚未開放 / 立即購買 / 購買截止",
     "groups": [
         {
             "name": "球衣($200)",
             "image": "https://i.imgur.com/imaL4V5.png",
-            "buy_url": "https://docs.google.com/forms/d/e/1FAIpQLSetBUJLMruPSC9xVzKxok4FrbHOLKReXqg8VICmvop8KcNOgg/viewform?usp=header",
-            "check_url": "https://docs.google.com/spreadsheets/d/1hh6yQjqe_RuhDcjLq2hAKUWgdcQ_YdwObAzjvYwqJsY/edit?usp=sharing"
+            "buy_url": "https://forms.gle/AcJ7M5sE5paiPfpP6",
+            "check_url": "https://docs.google.com/spreadsheets/d/1J2_Jq2UeIHHnyNe5Jvk5MGnnA9k0wZXNJByWqNoOOAE/edit?usp=sharing"
         },
         {
             "name": "球襪($100)",
             "image": "https://i.imgur.com/O2Cbv2B.jpeg",
-            "buy_url": "https://forms.gle/bWnd3Qjt1izXiQ6N9",
-            "check_url": "https://docs.google.com/spreadsheets/d/1RhgZwt4qnZ3JPn07C2lw3Vrf-w6FNCZ6P-UyOkL5srQ/edit?usp=sharing"
+            "buy_url": "https://forms.gle/sx2ufr1gwY17xVEf9",
+            "check_url": "https://docs.google.com/spreadsheets/d/1lNcz_OyqXL1U34v3vivgtb0V_Tk_Igk0uzP4l1qcmOw/edit?usp=sharing"
         },
         {
             "name": "匯款資訊上傳",
             "image": "https://i.imgur.com/M8TqkZM.png",
-            "buy_url": "https://forms.gle/DEj5fFyzeDprE2MR8",
-            "check_url": "https://docs.google.com/spreadsheets/d/12ZsYgQWz3RIP8XNZUIZAhDNSuLLVL1jkLLDUsQZHGeE/edit?usp=sharing"
+            "buy_url": "https://docs.google.com/forms/d/e/1FAIpQLScNAa57bz0B4LjsjJqMXToUdr4U6kyvfZ8Z-BB4_o3GPYk9uA/viewform",
+            "check_url": "https://docs.google.com/spreadsheets/d/1rDb_mF9uhAwSWQn30lGKMBQ0vsuVXkEbqccg25m5DgY/edit?usp=sharing"
         }
     ]
 }
