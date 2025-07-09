@@ -1,0 +1,11 @@
+#!/bin/bash
+
+rm index.html
+rm favicon.png
+rm -rf assets
+
+cp -r ../ntust-playcup/dist/* .
+
+git add .
+git commit -m "Update website"
+git push
